@@ -22,14 +22,14 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-<<<<<<< HEAD
     func featureX() {
         println("featureXinserted")
-=======
+        
+    }
+    
     func featureY() {
         println("function X implemented")
         //It's working
->>>>>>> feature-y
     }
 
 
