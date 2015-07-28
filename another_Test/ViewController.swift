@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     
     func featureY() {
         println("function X implemented")
+        //It's working
     }
 
 
