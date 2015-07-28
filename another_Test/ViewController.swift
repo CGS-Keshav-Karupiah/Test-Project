@@ -27,5 +27,10 @@ class ViewController: UIViewController {
     }
 
 
+    
+    
+    func featureQ() {
+        println("New feature")
+    }
 }
 
