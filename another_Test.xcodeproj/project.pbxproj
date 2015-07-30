@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C8B46641B69E6DF00CC2EC2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8B46631B69E6DF00CC2EC2 /* SecondViewController.swift */; };
 		4CE67B3C1B679FDE0029E215 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE67B3B1B679FDE0029E215 /* AppDelegate.swift */; };
 		4CE67B3E1B679FDE0029E215 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE67B3D1B679FDE0029E215 /* ViewController.swift */; };
 		4CE67B411B679FDE0029E215 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CE67B3F1B679FDE0029E215 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C8B46631B69E6DF00CC2EC2 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		4CE67B361B679FDE0029E215 /* another_Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = another_Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CE67B3A1B679FDE0029E215 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4CE67B3B1B679FDE0029E215 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				4CE67B421B679FDE0029E215 /* Images.xcassets */,
 				4CE67B441B679FDE0029E215 /* LaunchScreen.xib */,
 				4CE67B391B679FDE0029E215 /* Supporting Files */,
+				4C8B46631B69E6DF00CC2EC2 /* SecondViewController.swift */,
 			);
 			path = another_Test;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C8B46641B69E6DF00CC2EC2 /* SecondViewController.swift in Sources */,
 				4CE67B3E1B679FDE0029E215 /* ViewController.swift in Sources */,
 				4CE67B3C1B679FDE0029E215 /* AppDelegate.swift in Sources */,
 			);
@@ -409,6 +413,7 @@
 				4CE67B571B679FDE0029E215 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4CE67B581B679FDE0029E215 /* Build configuration list for PBXNativeTarget "another_TestTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				4CE67B5A1B679FDE0029E215 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
