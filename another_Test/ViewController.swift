@@ -28,8 +28,9 @@ class ViewController: UIViewController {
         println("featureXinserted")
         
     }
+
     
-    func featureQL() {
+    func featureZ() {
         println("function X implemented")
         //It's working
     }
