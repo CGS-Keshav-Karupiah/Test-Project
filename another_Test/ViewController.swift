@@ -40,5 +40,9 @@ class ViewController: UIViewController {
     func featureQ() {
         println("New feature")
     }
+    
+    func featureQZ() {
+        
+    }
 }
 
