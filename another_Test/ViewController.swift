@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         
     }
     
-    func featureY() {
+    func featureQL() {
         println("function X implemented")
         //It's working
     }
